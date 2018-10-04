@@ -17,5 +17,7 @@ class testEx2Test {
 		tester = new Triangle(3, 4, 5);
 		assertFalse(tester.isImpossible());		
 	}
+	
+	
 
 }
